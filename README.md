@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Formulas</title>
+    Formulas
 </head>
 <body>
     <ol>
@@ -28,7 +28,6 @@
             <br>
             <code>year = YEAR('TCS NS'[Date])</code>
         </li>
-
     </ol>
 </body>
 </html>
